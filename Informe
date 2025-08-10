@@ -1,0 +1,20 @@
+   | Tarea                             | Problema encontrado                                | Veces observado | Recomendación               |
+   | Leer términos y condiciones       | Los usuarios se quejaban de los términos no claros |        2        | Añadir un texto más extenso sobre los términos y condiciones de la empresa |
+   | Leer el contenido de la página    | Letra pequeña                                      |        1        | Aumentar tamaño para una mejor lectura |
+   | Visualizar la página              | Mal contraste de colores                           |        2        | Mejorar el contraste e la página y aplicar temas (Blanco y negro)    |
+
+
+
+  Metodologia: Nuestra metodologia parte desde la indicación de nuestros usuarios a que se unieran a una sala y fueran grabados usando nuestra página, mostrando así la calidad de la
+  navegación por ella el contraste y los términos y condiciones.
+
+
+MoSCoW:
+
+  Mo: No están claros los términos y condiciones, esto lo cambiamos debido a que los usuarios se quejaban sobre esto.
+  s: Mal contraste de colores.
+  co: Visualizar perfiles de otros usuarios.
+  w: Iniciar sesion con perfiles distintos, ya que las personas se conectan desde diferentes cuentas.
+
+
+  
